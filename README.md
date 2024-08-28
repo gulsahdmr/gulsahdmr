@@ -21,7 +21,9 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
+##
 
+[![](https://visitcount.itsvg.in/api?id=gulsahdmr&label=Profile%20Views&icon=5&pretty=true)](https://github.com/gulsahdmr)
 
 
 
