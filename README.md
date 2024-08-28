@@ -1,6 +1,6 @@
 ## Github Stats
 
-[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Gulsahdemir&show_icons=true&theme=aura#gh-dark-mode-only)
+[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=gulsahdmr&show_icons=true&theme=aura#gh-dark-mode-only)
 
 
 
